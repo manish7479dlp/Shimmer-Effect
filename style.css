@@ -23,7 +23,7 @@
   height: 180px;
   border-radius: 5px;
   margin-bottom: 10px;
-  animation: shimmer 1s ease-in-out 5s infinite alternate-reverse;
+  animation: shimmer 1s ease-in-out 0s infinite alternate-reverse;
   
 }
 .description {
@@ -34,7 +34,7 @@
     width: 100%;
     height: 15px;
     border-radius: 3px;
-    animation: shimmer .8s ease-in-out 5s infinite alternate;
+    animation: shimmer .8s ease-in-out 0s infinite alternate;
     margin-bottom: 5px;
 
 }
@@ -43,7 +43,7 @@
     width: 70%;
     height: 15px;
     border-radius: 3px;
-    animation: shimmer .8s ease-in-out 5s infinite alternate;
+    animation: shimmer .8s ease-in-out 0s infinite alternate;
     margin-bottom: 5px;
 
 }
@@ -52,7 +52,7 @@
     width: 50%;
     height: 15px;
     border-radius: 3px;
-    animation: shimmer .75s ease-in-out 5s infinite alternate;
+    animation: shimmer .75s ease-in-out 0s infinite alternate;
     margin-bottom: 5px;
 
 }
